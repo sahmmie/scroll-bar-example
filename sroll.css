@@ -1,0 +1,12 @@
+#box {
+    /* Position absolutely, 30px down from the top */
+    position: absolute;
+    /* In my case I'm centering it in the window; do what you like */
+    margin-left: -100px;
+    width: 200px;
+    /* These are just for my example */
+    height: 1.25em;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    background-color: red;
+}
